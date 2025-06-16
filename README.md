@@ -19,8 +19,9 @@ It focuses on multi-class / 2-class classification tasks using text data.
 
 ## Usage
 
-1. Install the required libraries (e.g., `scikit-learn`, `torch`, `numpy`, etc.).
-2. Open the Jupyter
+1. Clone this repository
+2. Install the required libraries (e.g., `scikit-learn`, `torch`, `numpy`, etc.).
+3. Open the Jupyter
 
 
 
